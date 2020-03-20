@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="frag_color">
+        <item name="bg_1">#673AB7</item>
+        <item name="bg_2">#E6AE21</item>
+        <item name="bg_3">#029C87</item>
+        <item name="bg_4">#c873f4</item>
+    </array>
+</resources>
